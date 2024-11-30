@@ -4,6 +4,13 @@ Hey guys!🖐️
 
 Data Base project where I simulate a condominium.
 
+I've applied knowledge of:
+- Relational Databases
+- MySQL
+- Normalization
+- ERM(Entity Relationship Model)
+- Relationship
+
 **I hope you enjoy it!🤟**
 
 <h3> Tools:
